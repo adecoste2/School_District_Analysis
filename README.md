@@ -38,7 +38,8 @@ School Performance: Subsequent Analysis
 * How does replacing the ninth-grade scores affect the following:
 
   * Math and Reading Scores by Grade
-  The affect of replacing the ninth grade scores for Thomas High School was that 'nan' replaced the initial score for *9th* grade in the subsequent analysis. 
+  
+    The affect of replacing the ninth grade scores for Thomas High School was that 'nan' replaced the initial score for *9th* grade in the subsequent analysis. 
     Math Scores by Grade: Initial Analysis
     ![Math_Scores_by_Grade_Before](https://github.com/adecoste2/School_District_Analysis/blob/main/Challenge%20Images/Challenge%20Images/Math_Scores_by_Grade_Before.png?raw=true)
     
@@ -52,6 +53,7 @@ School Performance: Subsequent Analysis
     ![Reading_Scores_by_Grade_After](https://github.com/adecoste2/School_District_Analysis/blob/main/Challenge%20Images/Challenge%20Images/Reading_Scores_by_Grade_After.png?raw=true)
     
   * Scores by School Spending
+    
     In a comparison of both analyses there is no difference with the school spending data from the initial analysis to the subsequent analysis.
   
     Scores by School Spending: Initial Analysis
@@ -61,6 +63,7 @@ School Performance: Subsequent Analysis
     ![School_Spending_After](https://github.com/adecoste2/School_District_Analysis/blob/main/Challenge%20Images/Challenge%20Images/School_Spending_After.png?raw=true)
    
   * Scores by School Size
+    
     In a comparison of both analyses there was no change in the school size for Thomas High School by replacing the ninth grade math and reading scores with NaN values.
     
     Scores by School Size: Initial Analysis
@@ -70,6 +73,7 @@ School Performance: Subsequent Analysis
     ![Scores_by_School_Size_After](https://github.com/adecoste2/School_District_Analysis/blob/main/Challenge%20Images/Challenge%20Images/Scores_by_School_Size_After.png?raw=true)
    
   * Scores by School Type
+    
     In a comparison of both analyses there was no change in the school type data by replacing the ninth grade math and reading scores with NaN values.
     
     Scores by School Type: Initial Analysis
